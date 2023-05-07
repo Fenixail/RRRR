@@ -1,0 +1,12 @@
+﻿  ConsoleApplication16.cpp
+  Figure.cpp
+  Menu1.cpp
+E:\Курсач\ConsoleApplication16\ConsoleApplication16\Menu1.cpp(45,44): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+E:\Курсач\ConsoleApplication16\ConsoleApplication16\Menu1.cpp(69,44): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+  Pentagon.cpp
+E:\Курсач\ConsoleApplication16\ConsoleApplication16\Pentagon.cpp(77,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Ploshad.cpp
+  Quadrate.cpp
+E:\Курсач\ConsoleApplication16\ConsoleApplication16\Quadrate.cpp(66,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  ConsoleApplication16.vcxproj -> E:\Курсач\ConsoleApplication16\Debug\ConsoleApplication16.exe

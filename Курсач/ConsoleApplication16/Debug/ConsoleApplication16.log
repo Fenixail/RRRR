@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+D:\C++\Курсовая работа, Variant-7\ConsoleApplication16\ConsoleApplication16.cpp(52,44): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+D:\C++\Курсовая работа, Variant-7\ConsoleApplication16\ConsoleApplication16.cpp(76,44): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+  ConsoleApplication16.vcxproj -> D:\C++\Курсовая работа, Variant-7\Debug\ConsoleApplication16.exe
